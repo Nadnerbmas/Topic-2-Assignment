@@ -19,13 +19,17 @@ namespace Topic_2_Assignment
             Console.ForegroundColor = ConsoleColor.White;
             Console.WriteLine();
 
-            Console.Write("The average of the numbers; 14, 15, and 16 using floationg point values is... ");
+            Console.Write("The average of the numbers; 14, 15, 16, and 17 using floationg point values is... ");
             Console.ForegroundColor = ConsoleColor.Red;
             Console.WriteLine((14.0 + 15.0 + 16.0 + 17.0) / 4);
             Console.ForegroundColor = ConsoleColor.White;
             Console.WriteLine();
 
-            //Solve the circle question (5)
+            Console.Write("Using the equation A=πr^2, the area of a circle with a radius of 3 is... ");
+            Console.ForegroundColor = ConsoleColor.Red;
+            Console.WriteLine((3.14 * 3.0) * (3.14 * 3.0));
+            Console.ForegroundColor = ConsoleColor.White;
+            Console.WriteLine();
 
             Console.WriteLine("");
 
