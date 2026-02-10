@@ -31,7 +31,7 @@ namespace Topic_2_Assignment
             Console.ForegroundColor = ConsoleColor.White;
             Console.WriteLine();
 
-            Console.WriteLine("");
+            Console.WriteLine("C# knows to add when there are two numerical values on each side of the "+" symbol. The computer can only add two integer's or floating point values together to get the proper answer to the question. If one side is a string of text, the computer will remove the space and merge both sides together.");
 
         }
     }
